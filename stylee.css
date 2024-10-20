@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(19, 17, 17);
+}
+#input{
+    background-color: rgb(19, 17, 17);
+    padding-top: 10px;
+    border-width: 0cap;
+    font-size: 16px;
+    color: aliceblue;
+    margin-left: 18px;
+    padding-left: -10px;
+    float: left;
+}
+#input:hover{
+    border-color: black;
+    outline-color: black;
+    outline-width: 0cap;
+    outline: 0cap;
+}
+#hor{
+    margin-top: 22px;
+}
+.nav{
+ background-color: rgb(19,17,17);
+ border-color: rgb(230, 205, 205);
+ border-radius: 50px;
+ border-width: 1px;
+ color: aliceblue;
+ padding-left: 10px;
+ padding-right: 10px;
+ padding-bottom: 5px;
+ padding-top: 5px;
+ margin-top: 30px;
+ margin-left: 2%;
+}
+.nav:hover{
+    background-color: rgb(21, 36, 21);
+    color: green;
+}
+.logoimg{
+    float: left;
+    margin-top: 19px;
+    margin-left: 10px;
+    background-color: rgb(27, 32, 32);
+    border-radius: 40px;
+}
+.lucky{
+    color: antiquewhite;
+    margin-top: 25px;
+    margin-left: 0px;
+}
+#heading{
+    color: rgb(230, 236, 241);
+    font-size: 20px;
+    margin-left: 20px;
+}
+.searching{
+    color: aliceblue;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 1px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 25px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.searching:hover{
+    background-color: rgb(39, 39, 37);
+}
+.searchingg{
+    color: aliceblue;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 1px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 25px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+.searchingg:hover{
+    background-color: rgb(39, 39, 37);
+}
+.searchinggg{
+    color: aliceblue;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 1px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 25px;
+    padding-left: 18px;
+    padding-right: 17px;
+}
+.searchinggg:hover{
+    background-color: rgb(39, 39, 37);
+}
+.searchingggg{
+    color: aliceblue;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 1px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.searchingggg:hover{
+    background-color: rgb(39, 39, 37);
+}
+.containerss{
+    margin: 6%;
+    padding:4%;
+ }
